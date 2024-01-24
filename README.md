@@ -1,1 +1,1 @@
-# todo-api
+# simple todo API with django
